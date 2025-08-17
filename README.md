@@ -26,18 +26,22 @@ To use this repository:
 To set up the virtual environment, run the following commands:
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+python -m venv virt_env
+virt_env\Scripts\activate  # On macOS/Linux use: source virt_env/bin/activate
 pip install -r requirements.txt
 ```
 
 ## Contribution
 Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them with clear messages.
-4. Push your branch to your fork.
-5. Open a pull request describing your changes.
+1. Fork the repository to your own GitHub account.
+2. Create a new branch for your analysis or bugfix:
+   `git checkout -b your-branch-name`
+3. Make your changes and commit them with clear, descriptive messages:
+   `git commit -m "Brief description of your changes"`
+4. Push your branch to your fork:
+   `git push origin your-branch-name`
+5. Open a pull request (PR) from your branch to the "main",
+   and clearly describe the purpose and scope of your contribution.
 
 Please ensure your code follows the existing style and includes appropriate tests where applicable.
 
