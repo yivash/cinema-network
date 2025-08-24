@@ -1,7 +1,9 @@
 # Cinema Network Analysis
 
 ## Topic
-This project explores the world of cinema, focusing on directors and their inspirations. It investigates the relationships and influences among US film directors based on their favorite films.
+This project explores the world of cinema, focusing on directors and their inspirations. It investigates the relationships and influences among US film directors based on their favorite films. \
+Accompanied Medium article:\
+[Network of Influence: How America’s Top Directors Inspire (and Connect) Each Other](https://medium.com/@yuri.ivaschenko/network-of-influence-how-americas-top-directors-inspire-and-connect-each-other-bbc02a6a6159)
 
 ## Data
 The analysis is based on a survey conducted by the British Film Institute (BFI) as part of their Sight & Sound poll. Specifically, it uses data from the 2012 "Greatest Films of All Time" directors' poll, focusing on the votes of US directors.
@@ -48,3 +50,4 @@ Please ensure your code follows the existing style and includes appropriate test
 ---
 
 This project aims to provide insights into the cinematic inspirations of US directors and foster further research and collaboration in the field of film studies.
+
